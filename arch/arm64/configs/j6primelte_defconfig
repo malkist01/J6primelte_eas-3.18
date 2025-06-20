@@ -2,7 +2,7 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm64 3.18.140 Kernel Configuration
 #
-# CONFIG_AUTO_LOCALVERSION is not set
+# CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_LOCALVERSION="-Teletubies-Eas 🕊️"
 CONFIG_AUDIT=y
 CONFIG_NO_HZ=y
